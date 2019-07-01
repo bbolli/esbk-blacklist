@@ -1,0 +1,5 @@
+#Version: 1.0
+#Serial: 20190614
+#Testfile
+www.dasisteineersteTestdomain.ch
+www.dasisteinezweiteTestdomain.ch
