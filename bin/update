@@ -54,7 +54,7 @@ openssl smime -verify -crl_check -in blacklist.eml -CAfile swiss_gov_ca_cert_and
 grep -q 'Verification successful' verify.txt
 
 # extract the blacklist
-sed -n 's/\x0d$//g; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
+sed -n 's/\x0d$//; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
     grep -v ^------ >esbk_blacklist.txt
 
 # commit and push on changes
