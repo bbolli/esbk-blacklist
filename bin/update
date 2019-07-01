@@ -1,0 +1,58 @@
+#! /bin/sh
+
+set -e
+CDPATH= cd $(dirname "$0")/..
+
+#Download Root certificate:
+wget -O swiss_governmentrootcaii.crt https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentrootcaii.crt.download.crt/swiss_governmentrootcaii.crt
+
+#Convert Root certificate:
+openssl x509 -in swiss_governmentrootcaii.crt -out swiss_governmentrootcaii.pem -outform pem
+rm swiss_governmentrootcaii.crt
+
+#Download Intermediate certificate:
+wget -O swiss_governmentregularca01.cer https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentregularca01.cer.download.cer/swiss_governmentregularca01.cer
+
+#Convert Intermediate certificate:
+openssl x509 -inform der -in swiss_governmentregularca01.cer -out swiss_governmentregularca01.pem
+rm swiss_governmentregularca01.cer
+
+#Build CAfile (certificate chain):
+cat swiss_governmentrootcaii.pem swiss_governmentrootcaii.pem >swiss_gov_ca_cert.pem
+rm swiss_government*.pem
+
+#Download blacklist.eml:
+wget -O blacklist.eml https://www.esbk.admin.ch/dam/data/esbk/illegalesspiel/zugangssperren/blacklist.eml
+
+#Verify blacklist.eml and extract certificate:
+openssl smime -verify -in blacklist.eml -CAfile swiss_gov_ca_cert.pem -signer signer.pem -out textdata 2>verify.txt
+grep 'Verification successful' verify.txt
+
+#Check certificate of blacklist.eml has been issued for provider@esbk.admin.ch
+openssl x509 -noout -text -in signer.pem |
+    awk -Femail: '/email:/ { print $2 }' |
+    grep provider@esbk.admin.ch
+
+#Extract Address of revocation list
+crl=$(openssl x509 -noout -text -in signer.pem |
+    grep -A 4 'X509v3 CRL Distribution Points' |
+    awk -FURI: '/URI:/ { print $2 }')
+
+#Download Revocation List:
+wget -O crl $crl
+
+#Convert Revocation List to pem:
+openssl crl -inform DER -in crl -outform PEM -out crl.pem
+rm crl
+
+#Build Revocation chain:
+cat swiss_gov_ca_cert.pem crl.pem >swiss_gov_ca_cert_and_crl.pem
+rm crl.pem
+
+#Verify blacklist.eml against Certificate Chain AND Revocation List:
+openssl smime -verify -crl_check -in blacklist.eml -CAfile swiss_gov_ca_cert_and_crl.pem -out textdata 2>verify.txt
+grep 'Verification successful' verify.txt
+
+# extract the blocklist
+rm -f *.txt
+mu extract blacklist.eml '.*\.txt'
