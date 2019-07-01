@@ -4,14 +4,14 @@ set -e
 CDPATH= cd $(dirname "$0")/..
 
 #Download Root certificate:
-wget -O swiss_governmentrootcaii.crt https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentrootcaii.crt.download.crt/swiss_governmentrootcaii.crt
+wget -qO swiss_governmentrootcaii.crt https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentrootcaii.crt.download.crt/swiss_governmentrootcaii.crt
 
 #Convert Root certificate:
 openssl x509 -in swiss_governmentrootcaii.crt -out swiss_governmentrootcaii.pem -outform pem
 rm swiss_governmentrootcaii.crt
 
 #Download Intermediate certificate:
-wget -O swiss_governmentregularca01.cer https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentregularca01.cer.download.cer/swiss_governmentregularca01.cer
+wget -qO swiss_governmentregularca01.cer https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentregularca01.cer.download.cer/swiss_governmentregularca01.cer
 
 #Convert Intermediate certificate:
 openssl x509 -inform der -in swiss_governmentregularca01.cer -out swiss_governmentregularca01.pem
@@ -22,7 +22,7 @@ cat swiss_governmentrootcaii.pem swiss_governmentrootcaii.pem >swiss_gov_ca_cert
 rm swiss_government*.pem
 
 #Download blacklist.eml:
-wget -O blacklist.eml https://www.esbk.admin.ch/dam/data/esbk/illegalesspiel/zugangssperren/blacklist.eml
+wget -qO blacklist.eml https://www.esbk.admin.ch/dam/data/esbk/illegalesspiel/zugangssperren/blacklist.eml
 
 #Verify blacklist.eml and extract certificate:
 openssl smime -verify -in blacklist.eml -CAfile swiss_gov_ca_cert.pem -signer signer.pem -out textdata 2>verify.txt
@@ -39,7 +39,7 @@ crl=$(openssl x509 -noout -text -in signer.pem |
     awk -FURI: '/URI:/ { print $2 }')
 
 #Download Revocation List:
-wget -O crl $crl
+wget -qO crl $crl
 
 #Convert Revocation List to pem:
 openssl crl -inform DER -in crl -outform PEM -out crl.pem
