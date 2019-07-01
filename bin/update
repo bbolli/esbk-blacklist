@@ -56,3 +56,10 @@ grep 'Verification successful' verify.txt
 # extract the blocklist
 rm -f *.txt
 mu extract blacklist.eml '.*\.txt'
+
+# commit and push on changes
+if test "$(git ls-files -mo --exclude-standard)"; then
+    git add .
+    git commit -m update
+    git push
+fi
