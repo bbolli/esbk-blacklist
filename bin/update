@@ -26,12 +26,12 @@ wget -qO blacklist.eml https://www.esbk.admin.ch/dam/data/esbk/illegalesspiel/zu
 
 #Verify blacklist.eml and extract certificate:
 openssl smime -verify -in blacklist.eml -CAfile swiss_gov_ca_cert.pem -signer signer.pem -out textdata 2>verify.txt
-grep 'Verification successful' verify.txt
+grep -q 'Verification successful' verify.txt
 
 #Check certificate of blacklist.eml has been issued for provider@esbk.admin.ch
 openssl x509 -noout -text -in signer.pem |
     awk -Femail: '/email:/ { print $2 }' |
-    grep provider@esbk.admin.ch
+    grep -q provider@esbk.admin.ch
 
 #Extract Address of revocation list
 crl=$(openssl x509 -noout -text -in signer.pem |
@@ -51,7 +51,7 @@ rm crl.pem
 
 #Verify blacklist.eml against Certificate Chain AND Revocation List:
 openssl smime -verify -crl_check -in blacklist.eml -CAfile swiss_gov_ca_cert_and_crl.pem -out textdata 2>verify.txt
-grep 'Verification successful' verify.txt
+grep -q 'Verification successful' verify.txt
 rm verify.txt
 
 # extract the blacklist
