@@ -52,10 +52,11 @@ rm crl.pem
 #Verify blacklist.eml against Certificate Chain AND Revocation List:
 openssl smime -verify -crl_check -in blacklist.eml -CAfile swiss_gov_ca_cert_and_crl.pem -out textdata 2>verify.txt
 grep 'Verification successful' verify.txt
+rm verify.txt
 
-# extract the blocklist
-rm -f *.txt
-mu extract blacklist.eml '.*\.txt'
+# extract the blacklist
+sed -n 's/\x0d$//g; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
+    grep -v ^------ >esbk_blacklist.txt
 
 # commit and push on changes
 if test "$(git ls-files -mo --exclude-standard)"; then
