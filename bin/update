@@ -58,8 +58,8 @@ sed -n 's/\x0d$//; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
     grep -v ^------ >esbk_blacklist.txt
 
 # commit and push on changes
-if test "$(git ls-files -mo --exclude-standard)"; then
-    git add .
+if test "$(git ls-files -mo --exclude-standard '*.txt')"; then
+    git add '*.txt'
     git commit -m update
     git push
 fi
