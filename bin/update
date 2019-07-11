@@ -8,6 +8,14 @@ fail() {
     exit 1
 }
 
+dryrun=
+while getopts n opt; do
+    case $opt in
+        n) dryrun=1;;
+        ?) exit 1;;
+    esac
+done
+
 #Download Root certificate:
 wget -qO swiss_governmentrootcaii.crt https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentrootcaii.crt.download.crt/swiss_governmentrootcaii.crt
 
@@ -67,7 +75,12 @@ sed -n 's/\x0d$//; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
 
 # commit and push on changes
 if test "$(git ls-files -mo --exclude-standard '*.txt')"; then
-    git add '*.txt'
-    git commit -m update
-    git push
+    if test -z "$dryrun"; then
+        git add '*.txt'
+        git commit -m update
+        git push
+    else
+        echo Commit suppressed
+        git status
+    fi
 fi
