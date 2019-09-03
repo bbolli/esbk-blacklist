@@ -1,5 +1,41 @@
 #Version: 1.0
-#Serial: 20190614
-#Testfile
-www.dasisteineersteTestdomain.ch
-www.dasisteinezweiteTestdomain.ch
+#Serial: 20190903
+10futuriti.ru
+1bet.com
+21grandcasino.com
+5dimes.eu
+argocasino.com
+bet365.com
+bet-at-home.com
+casino-2go.com
+casinoextra.com
+casino-mate.com
+casinomga.com
+casinomidas.com
+davincisgold.com
+extrabet777.com
+futuriticasino.com
+genesiscasino.com
+gg.bet
+goldencavecasino.com
+igame.com
+intertops.eu
+poker.intertops.eu
+casino.intertops.eu
+interwetten.com
+interwetten1.com
+lsbet.com
+mandarinpalace.com
+mostbet.com
+parimatch.com
+pariscasino4.com
+pinnacle.bet
+pinnacle.com
+pinnaclesports.com
+reelemperor.com
+slotocash.im
+uniquecasino.com
+vavada.ru
+vavada1.com
+vegasbet777.com
+videoslots.com
