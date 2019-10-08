@@ -1,12 +1,26 @@
 #Version: 1
-#Serial: 20190903
+#Serial: 20191008
 1bet.com
 1xbet.com
 22bet.com
+africabet.co.zw
+anogame.com
+anoguess.com
 bahigo.com
+bahigo207.com
+balkanbet.rs
 bet-at-home.com
 bet365.com
+bet365.it
+betaland.it
 betclic.com
+betflag.it
+betlima117.com
+betlive.com
+betolimp.com
+betonline.ag
+betrebels.com
+betspawn.com
 betworld.com
 betworld1.com
 betworld2.com
@@ -39,6 +53,7 @@ interwetten3.com
 interwetten4.com
 interwetten5.com
 interwetten6.com
+lopoca.com
 lsbet.com
 mybet.com
 pinnacle.com
@@ -47,12 +62,14 @@ solobet.com
 solobet1.com
 solobet2.com
 solobet3.com
+sportsbetting.ag
 sunmaker.com
 thelotter.com
 tipbet.com
 tipwin.com
 tipwin.de
 tipxbet.com
+topsport.com.au
 topsport.lt
 unibet.com
 unikrn.com
