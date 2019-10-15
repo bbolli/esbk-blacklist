@@ -1,5 +1,5 @@
-#Version: 1.0
-#Serial: 20190903
+#Version: 1.1
+#Serial: 20191015
 10futuriti.ru
 1bet.com
 21grandcasino.com
@@ -7,12 +7,22 @@
 argocasino.com
 bet365.com
 bet-at-home.com
+betchain.com
+betchan.com
+bobcasino.com
+casino.intertops.eu
 casino-2go.com
+casinoestrella.com
+casinoestrellavip.com
 casinoextra.com
 casino-mate.com
 casinomga.com
 casinomidas.com
+casinosuperlines.com
 davincisgold.com
+dingo-casino.com
+dublinbet.com
+dublinbetenvivo.com
 extrabet777.com
 futuriticasino.com
 genesiscasino.com
@@ -20,22 +30,32 @@ gg.bet
 goldencavecasino.com
 igame.com
 intertops.eu
-poker.intertops.eu
-casino.intertops.eu
 interwetten.com
 interwetten1.com
+jellybeancasino.com
+joocasino.com
+lopoca.com
 lsbet.com
+lucky31.com
+lucky-31.com
+luckydays.com
 mandarinpalace.com
+manekicasino.com
 mostbet.com
+onlinebingo.eu
 parimatch.com
 pariscasino4.com
 pinnacle.bet
 pinnacle.com
 pinnaclesports.com
+playamo.com
+poker.intertops.eu
 reelemperor.com
 slotocash.im
+spinia.com
 uniquecasino.com
 vavada.ru
 vavada1.com
 vegasbet777.com
 videoslots.com
+winfest.com
