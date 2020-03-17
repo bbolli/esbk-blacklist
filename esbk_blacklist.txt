@@ -1,5 +1,5 @@
 #Version: 1.1
-#Serial: 20200128
+#Serial: 20200317
 10futuriti.ru
 1bet.com
 1gratorama.com
@@ -13,12 +13,16 @@
 6black-club.com
 6blacks.com
 77gratorama.com
+788-sb.com
 allsport365.com
 argocasino.com
+astcasino.com
 bahigo.com
+bahigo112.com
 bahigo125.com
 bahigo178.com
 bahigo207.com
+bestgoldeneuro.com
 bet365.com
 bet-at-home.com
 betchain.com
@@ -30,6 +34,8 @@ bitstarz.com
 bobcasino.com
 bobcasino15.com
 bobcasino-bonus.com
+bronzecasino.com
+bronze-casino.com
 campeonbet.com
 cashpotcasino.com
 cashpotcasino.net
@@ -38,6 +44,8 @@ casino.intertops.eu
 casino1club.com
 casino1-club.com
 casino-2go.com
+casinoastral.com
+casino-astral.com
 casinodisco.com
 casinoestrella.com
 casinoestrellavip.com
@@ -58,8 +66,10 @@ cherrygoldcasinonew.com
 classyslots.com
 club7casino.com
 club7casino.mobi
+dasistcasino.com
 davincisgold.com
 dingo-casino.com
+donscasino.com
 driftcasino.biz
 driftcasino.co
 driftcasino.com
@@ -71,7 +81,9 @@ euromooncasino.com
 euromoon-casino.com
 euslot.com
 extrabet777.com
+fortunelegends.com
 futuriticasino.com
+galemartin.com
 genesiscasino.com
 gg.bet
 goldencavecasino.com
@@ -81,6 +93,7 @@ goldenlionnew.com
 goldenstar-casino.com
 gratorama.com
 grattorama.com
+gunsbet.com
 igame.com
 intertops.eu
 interwetten.com
@@ -94,12 +107,15 @@ lopoca.com
 lsbet.com
 lucky31.com
 lucky-31.com
-luckydays.com
 luckyredcasino.com
+madamechance.com
+madamechancefrance.com
 magik.casino
 magikcasino.co
 magikcasino.com
 magikcasino.vip
+magikslots.com
+magik-slots.com
 mandarinpalace.com
 manekicasino.com
 mostbet.com
@@ -112,6 +128,8 @@ omnislots.com
 onlinebingo.eu
 orientxpresscasino.com
 pariscasino4.com
+parklaneecasin0.com
+parklaneecasino.com
 pinnacle.bet
 pinnacle.com
 pinnaclesports.com
@@ -120,18 +138,25 @@ playamo.com
 playamo25.com
 playamo27.com
 playamo28.com
+playamo30.com
 poker.intertops.eu
 reelemperor.com
 reeltastic.com
+ridika.com
+royale500.com
 royalspinz.com
 royalspinz.org
 scratchmania.com
 slotocash.im
 spinia.com
 spinia4.com
+spinmillion.com
 spintropolis.com
 spintropolis.net
 spintropolis.org
+spinupcasino.club
+spinupcasino.com
+spinup-casino.com
 spinzroyal.com
 uniquecasino.com
 uniquecasinovip.com
@@ -139,6 +164,7 @@ vavada.ru
 vavada1.com
 vegasbet777.com
 videoslots.com
+voodoodreams.com
 webbyslots.com
 winfest.com
 winorama.com

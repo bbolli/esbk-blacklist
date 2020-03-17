@@ -1,5 +1,5 @@
 #Version: 1
-#Serial: 20191126
+#Serial: 20200317
 1bet.com
 1xbet.com
 22bet.com
@@ -8,13 +8,17 @@ allsport365.com
 anogame.com
 anoguess.com
 bahigo.com
+bahigo112.com
+bahigo125.com
 bahigo178.com
 bahigo207.com
 balkanbet.rs
 bet-at-home.com
 bet365.com
+bet365.dk
 bet365.it
 betaland.it
+betbigwin.com
 betclic.com
 betflag.it
 betlima117.com
@@ -46,11 +50,15 @@ betworld19.com
 buff.bet
 coinbet24.com
 cryptobet.com
+efbet.net
+eurolotto-service.com
+eurolotto-service.es
 expekt.com
 forzza.com
 forzza1.com
 forzza2.com
 forzza3.com
+forzza7.com
 intertops.eu
 interwetten.com
 interwetten1.com
@@ -70,6 +78,9 @@ solobet1.com
 solobet2.com
 solobet3.com
 solobet10.com
+solobet11.com
+solobet12.com
+solobet13.com
 sportsbetting.ag
 sunmaker.com
 thelotter.com
@@ -81,7 +92,9 @@ unibet.com
 unikrn.com
 uwin4u.com
 winx24.com
+wir-wetten.at
 wir-wetten.com
+wirwetten.at
 wirwetten.com
 xbet-1.com
 xbet-2.com
