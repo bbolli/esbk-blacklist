@@ -1,8 +1,9 @@
 #Version: 1
-#Serial: 20200519
+#Serial: 20200818
 1bet.com
 1xbet.com
 22bet.com
+22bet8.co
 africabet.co.zw
 allsport365.com
 alpenwetten.com
@@ -10,6 +11,7 @@ anogame.com
 anoguess.com
 bahigo.com
 bahigo28.com
+bahigo35.com
 bahigo112.com
 bahigo125.com
 bahigo178.com
@@ -68,6 +70,7 @@ forzza1.com
 forzza2.com
 forzza3.com
 forzza7.com
+forzza45.com
 gwbet.com
 helwettia.com
 heritagesports.eu
@@ -80,11 +83,16 @@ interwetten4.com
 interwetten5.com
 interwetten6.com
 interwetten7.com
+interwetten8.com
 lopoca.com
 lsbet.com
+meridianbet.com
+meridianbet.com.cy
 mybet.com
+mybet.de
 pinnacle.com
 runbet.com
+shangrilalive.com
 siskobet.com
 solobet.com
 solobet1.com
@@ -97,6 +105,7 @@ solobet13.com
 solobet14.com
 sportsbetting.ag
 sunmaker.com
+svenbet.com
 thelotter.com
 tipbet.com
 tipxbet.com
@@ -105,12 +114,15 @@ topsport.lt
 unibet.com
 unikrn.com
 uwin4u.com
+vulkanbet.com
+webbyslot.com
 wettpionier.com
 winx24.com
 wir-wetten.at
 wir-wetten.com
 wirwetten.at
 wirwetten.com
+wirwetten247.com
 xbet-1.com
 xbet-2.com
 xbet-3.com

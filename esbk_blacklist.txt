@@ -1,5 +1,5 @@
 #Version: 1.1
-#Serial: 20200519
+#Serial: 20200818
 10futuriti.ru
 1bet.com
 1betasia.com
@@ -25,6 +25,7 @@
 77gratorama.com
 788-sb.com
 allsport365.com
+amunra.com
 argocasino.com
 argocasino37.com
 argocasino50.com
@@ -48,24 +49,33 @@ betchan.com
 betchan19.com
 betchan32.com
 betchan-exclusive.com
+bitcasino.io
+bitcoincasino.io
 bitstarz.com
+boaboa.com 
+boaboa1.com 
 bobcasino.com
 bobcasino15.com
 bobcasino18.com
 bobcasino-bonus.com
 bronzecasino.com
 bronze-casino.com
+cadoola.com 
+cadoola3.com 
 campeonbet.com
 cashpotcasino.com
 cashpotcasino.net
 cashpotcasino.org
 cashpotcasinos.com
+casinia.com 
+casinia2.com
 casino.intertops.eu
 casino1club.com
 casino1-club.com
 casino-2go.com
 casinoastral.com
 casino-astral.com
+casinobuck.com
 casinodisco.com
 casinoestrella.com
 casinoestrella2020.com
@@ -73,6 +83,7 @@ casinoestrellavip.com
 casinoextra.com
 casino-mate.com
 casinomga.com
+casinomia.com
 casinomidas.com
 casinosuperlines.com
 casino-x.club
@@ -81,12 +92,15 @@ casino-x1.club
 casino-x1.com
 casino-x1010.com
 casino-x1034.com
+casoo.com
 cherrygoldcasino.com
 cherrygoldcasino.net
 cherrygoldcasinonew.com
 classyslots.com
 club7casino.com
 club7casino.mobi
+cookiecasino.com
+crazyfox.com
 dasistcasino.com
 davincisgold.com
 diamondclubvip.com
@@ -101,6 +115,7 @@ dublinbet.com
 dublinbet1.com
 dublinbet2020.com
 dublinbetenvivo.com
+duxcasino.com
 ea2ohqdtmxmb.com
 eclipsecasino.com
 euromooncasino.com
@@ -118,7 +133,9 @@ goldenlion.im
 goldenlionnew.com
 goldenstar-casino.com
 gratorama.com
+gratowin.com
 grattorama.com
+greenspin.bet
 gunsbet.com
 igame.com
 intertops.eu
@@ -129,7 +146,9 @@ jellybeancasino.com
 joocasino.com
 joocasino11.com
 kingbilly.com
+kingbillycasino.com
 lafiestacasino.com
+live.casino
 lokicasino.com
 lokicasino1.com
 lopoca.com
@@ -140,6 +159,8 @@ lucky-31.com
 lucky31fr.com
 lucky31win.com
 luckyredcasino.com
+machance.com 
+machancecasino.com
 madamechance.com
 madamechancefrance.com
 magik.casino
@@ -150,6 +171,8 @@ magikslots.com
 magik-slots.com
 mandarinpalace.com
 manekicasino.com
+masonslots.com
+megapari.com
 mostbet.com
 mrxbet.com
 mrxbet.net
@@ -162,6 +185,8 @@ nordicasino.com
 omnislots.com
 onlinebingo.eu
 orientxpresscasino.com
+oshi.io
+paradisecasino.com
 pariscasino4.com
 pariscasino6.com
 parklaneecasin0.com
@@ -177,6 +202,7 @@ playamo30.com
 playamo31.com
 poker.intertops.eu
 redkings.com
+redping.win
 reelemperor.com
 reeltastic.com
 richcasino.com
@@ -185,8 +211,10 @@ royale500.com
 royalspinz.com
 royalspinz.org
 scratchmania.com
+shangrilalive.com
 slotocash.im
 slotum.com
+slotwolf.com
 spinia.com
 spinia4.com
 spinia6.com
@@ -199,6 +227,8 @@ spinupcasino.club
 spinupcasino.com
 spinup-casino.com
 spinzroyal.com
+stakes.com
+syndicate.casino
 tigergaming.com
 tonybet.com
 uniquecasino.com
@@ -208,12 +238,15 @@ vavada.ru
 vavada1.com
 vavada49.com
 vegasbet777.com
+vegasplus.com
 videoslots.com
 voodoodreams.com
 wazamba777.com
 webbyslots.com
+wildtornado.casino
 winfest.com
 winorama.com
 winspark.com
 winspark77.com
 winx24.com
+zencasino.com
