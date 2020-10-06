@@ -1,9 +1,12 @@
 #Version: 1.1
-#Serial: 20200818
+#Serial: 20201006
 10futuriti.ru
+1allrightcasino.com
 1bet.com
 1betasia.com
+1burancasino.com
 1gratorama.com
+1luckybirdcasino.com
 21grandcasino.com
 22-bet.net
 22bet1.online
@@ -13,19 +16,29 @@
 22bet7.net
 24bettle.com
 24kcasino.com
+2allrightcasino.com
+2luckybirdcasino.com
 365sb.com
+3allrightcasino.com
+3luckybirdcasino.com
 3scratchmania.com
 3winorama.com
 3winspark.com
+4luckybirdcasino.com
+4supercatcasino.com
+5allrightcasino.com
 5dimes.eu
 5dimes.mobi
+5luckybirdcasino.com
 6black.com
 6black-club.com
 6blacks.com
 77gratorama.com
 788-sb.com
+allrightcasino.com
 allsport365.com
 amunra.com
+argo3casino.com
 argocasino.com
 argocasino37.com
 argocasino50.com
@@ -38,6 +51,7 @@ bahigo178.com
 bahigo207.com
 bahigo28.com
 baocasino.com
+bc.game
 bestgoldeneuro.com
 bet365.com
 betamo.com
@@ -57,12 +71,16 @@ boaboa1.com
 bobcasino.com
 bobcasino15.com
 bobcasino18.com
+bobcasino20.com
 bobcasino-bonus.com
 bronzecasino.com
 bronze-casino.com
+burancasino.com
 cadoola.com 
 cadoola3.com 
 campeonbet.com
+campobet.com
+campobet5.com
 cashpotcasino.com
 cashpotcasino.net
 cashpotcasino.org
@@ -93,6 +111,7 @@ casino-x1.com
 casino-x1010.com
 casino-x1034.com
 casoo.com
+cbet.gg
 cherrygoldcasino.com
 cherrygoldcasino.net
 cherrygoldcasinonew.com
@@ -117,6 +136,8 @@ dublinbet2020.com
 dublinbetenvivo.com
 duxcasino.com
 ea2ohqdtmxmb.com
+eatsleepbet.com
+eat-sleep-bet.com
 eclipsecasino.com
 euromooncasino.com
 euromoon-casino.com
@@ -147,6 +168,7 @@ joocasino.com
 joocasino11.com
 kingbilly.com
 kingbillycasino.com
+ladyhammercasino.com
 lafiestacasino.com
 live.casino
 lokicasino.com
@@ -158,6 +180,7 @@ lucky31.com
 lucky-31.com
 lucky31fr.com
 lucky31win.com
+luckybirdcasino.com
 luckyredcasino.com
 machance.com 
 machancecasino.com
@@ -181,9 +204,12 @@ n1casino2.com
 n1casino3.com
 n1casino4.com
 n1casino5.com
+n1casino7.com
 nordicasino.com
 omnislots.com
 onlinebingo.eu
+orientexpresscasino.com
+orientexpresscasino.info
 orientxpresscasino.com
 oshi.io
 paradisecasino.com
@@ -191,6 +217,7 @@ pariscasino4.com
 pariscasino6.com
 parklaneecasin0.com
 parklaneecasino.com
+pasino.com
 pinnacle.bet
 pinnacle.com
 pinnaclesports.com
@@ -200,6 +227,7 @@ playamo27.com
 playamo28.com
 playamo30.com
 playamo31.com
+playamo33.com
 poker.intertops.eu
 redkings.com
 redping.win
@@ -211,9 +239,11 @@ royale500.com
 royalspinz.com
 royalspinz.org
 scratchmania.com
+scratchmania77.com
 shangrilalive.com
 slotocash.im
 slotum.com
+slotum14.com
 slotwolf.com
 spinia.com
 spinia4.com
@@ -227,12 +257,16 @@ spinupcasino.club
 spinupcasino.com
 spinup-casino.com
 spinzroyal.com
+sportsbet.io
 stakes.com
+supercatcasino.com
+supercat-casino.com
 syndicate.casino
 tigergaming.com
-tonybet.com
 uniquecasino.com
+uniquecasino-ch.com
 uniquecasinovip.com
+universalslots.net
 vavada.com
 vavada.ru
 vavada1.com
@@ -242,6 +276,7 @@ vegasplus.com
 videoslots.com
 voodoodreams.com
 wazamba777.com
+webbyslot.com
 webbyslots.com
 wildtornado.casino
 winfest.com
