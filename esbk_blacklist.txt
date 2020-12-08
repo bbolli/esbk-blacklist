@@ -1,5 +1,5 @@
 #Version: 1.1
-#Serial: 20201006
+#Serial: 20201208
 10futuriti.ru
 1allrightcasino.com
 1bet.com
@@ -16,6 +16,7 @@
 22bet7.net
 24bettle.com
 24kcasino.com
+288sb.com
 2allrightcasino.com
 2luckybirdcasino.com
 365sb.com
@@ -35,6 +36,7 @@
 6blacks.com
 77gratorama.com
 788-sb.com
+7bitcasino.com
 allrightcasino.com
 allsport365.com
 amunra.com
@@ -50,12 +52,18 @@ bahigo125.com
 bahigo178.com
 bahigo207.com
 bahigo28.com
+bahigo42.com
 baocasino.com
 bc.game
 bestgoldeneuro.com
 bet365.com
+betadonis.com
+betadonis777.com
 betamo.com
 bet-at-home.com
+bet-at-home01.com
+bet-at-home324.com
+bet-at-home456.com
 bet-at-home789.com
 betchain.com
 betchain4.com
@@ -63,6 +71,9 @@ betchan.com
 betchan19.com
 betchan32.com
 betchan-exclusive.com
+betmaster.io
+bettilt.com
+bettilt876.com
 bitcasino.io
 bitcoincasino.io
 bitstarz.com
@@ -81,6 +92,7 @@ cadoola3.com
 campeonbet.com
 campobet.com
 campobet5.com
+cashimashi.com
 cashpotcasino.com
 cashpotcasino.net
 cashpotcasino.org
@@ -99,6 +111,7 @@ casinoestrella.com
 casinoestrella2020.com
 casinoestrellavip.com
 casinoextra.com
+casinoin.io
 casino-mate.com
 casinomga.com
 casinomia.com
@@ -116,6 +129,7 @@ cherrygoldcasino.com
 cherrygoldcasino.net
 cherrygoldcasinonew.com
 classyslots.com
+cleopatracasino.com
 club7casino.com
 club7casino.mobi
 cookiecasino.com
@@ -139,6 +153,7 @@ ea2ohqdtmxmb.com
 eatsleepbet.com
 eat-sleep-bet.com
 eclipsecasino.com
+enzocasino.com
 euromooncasino.com
 euromoon-casino.com
 euslot.com
@@ -149,6 +164,7 @@ galemartin.com
 genesiscasino.com
 gg.bet
 goldencavecasino.com
+goldencrowncasino.com
 goldeneuro.com
 goldenlion.im
 goldenlionnew.com
@@ -157,6 +173,7 @@ gratorama.com
 gratowin.com
 grattorama.com
 greenspin.bet
+gslot.com
 gunsbet.com
 igame.com
 intertops.eu
@@ -171,9 +188,11 @@ kingbillycasino.com
 ladyhammercasino.com
 lafiestacasino.com
 live.casino
+llamagaming.com
 lokicasino.com
 lokicasino1.com
 lopoca.com
+lordofthespins.com
 lsbet.com
 lsbet837.com
 lucky31.com
@@ -196,6 +215,7 @@ mandarinpalace.com
 manekicasino.com
 masonslots.com
 megapari.com
+megaslot.com
 mostbet.com
 mrxbet.com
 mrxbet.net
@@ -227,7 +247,9 @@ playamo27.com
 playamo28.com
 playamo30.com
 playamo31.com
+playamo32.com
 playamo33.com
+playamo34.com
 poker.intertops.eu
 redkings.com
 redping.win
@@ -236,6 +258,7 @@ reeltastic.com
 richcasino.com
 ridika.com
 royale500.com
+royalrabbitcasino.com
 royalspinz.com
 royalspinz.org
 scratchmania.com
@@ -244,10 +267,12 @@ shangrilalive.com
 slotocash.im
 slotum.com
 slotum14.com
+slotum15.com
 slotwolf.com
 spinia.com
 spinia4.com
 spinia6.com
+spinia8.com
 spinmillion.com
 spinsamba.com
 spintropolis.com
@@ -261,8 +286,10 @@ sportsbet.io
 stakes.com
 supercatcasino.com
 supercat-casino.com
+superiorcasino.com
 syndicate.casino
 tigergaming.com
+timessquarecasino.com
 uniquecasino.com
 uniquecasino-ch.com
 uniquecasinovip.com
@@ -278,10 +305,14 @@ voodoodreams.com
 wazamba777.com
 webbyslot.com
 webbyslots.com
+wildblaster.com
 wildtornado.casino
 winfest.com
 winorama.com
 winspark.com
 winspark77.com
 winx24.com
+wonclub.com
+wonclub25.com
+woocasino.com
 zencasino.com
