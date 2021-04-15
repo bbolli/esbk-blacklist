@@ -73,8 +73,9 @@ grep -q 'Verification successful' verify.txt ||
 sed -n 's/\x0d$//; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
     grep -v ^------ >esbk_blacklist.txt
 
-# get the comlot blacklist
+# get the comlot blacklist and certificate
 wget -qO comlot_blacklist.txt https://blacklist.comlot.ch/comlot_blacklist.txt
+wget -qO comlot_blacklist_cert.txt https://blacklist.comlot.ch/blacklist.comlot.ch.pub
 
 # commit and push on changes
 if test "$(git ls-files -mo --exclude-standard '*.txt')"; then
