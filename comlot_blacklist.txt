@@ -1,8 +1,10 @@
 #Version: 1
-#Serial: 20210615
+#Serial: 20211005
 1bet.com
+20bet.com
 22bet.com
 22bet8.co
+288-563.com
 788-sb.com
 africabet.co.zw
 allrightcasino.com
@@ -16,6 +18,7 @@ bahigo23.com
 bahigo28.com
 bahigo35.com
 bahigo42.com
+bahigo64.com
 bahigo112.com
 bahigo125.com
 bahigo178.com
@@ -25,6 +28,7 @@ bet-at-home.com
 bet365.com
 bet365.dk
 bet365.it
+betadonis.com
 betaland.it
 betbigwin.com
 betclic.com
@@ -60,13 +64,14 @@ betworld18.com
 betworld19.com
 betworld20.com
 buff.bet
-campobet5.com
-campobet7.com
 casinia2.com
 cbet.gg
 coinbet24.com
 cryptobet.com
+cryptokitties.co
+csgoempire.com
 efbet.net
+escowin10.com
 eurolloto.com
 eurolloto.me
 eurolotto-service.com
@@ -103,13 +108,19 @@ lopoca.com
 lottery.com
 lsbet.com
 luckybirdcasino.com
+matchbook.com
 meridianbet.com.cy
 mybet.com
 mybet.de
 mybookie.ag
 palmerbet.com
+pegasosonline.net
 pinnacle.com
+profibull.com
+raffall.com
+richprize.com
 shangrilalive.com
+sharplotto.com
 siskobet.com
 slottica.com
 solobet.com
@@ -121,6 +132,8 @@ solobet11.com
 solobet12.com
 solobet13.com
 solobet14.com
+solobet15.com
+sorare.com
 sports4africa.com
 sportsbet.io
 sportsbetting.ag
@@ -145,8 +158,10 @@ winnabets.com
 winx24.com
 wir-wetten.at
 wir-wetten.com
+wir-wetten.eu
 wirwetten.at
 wirwetten.com
 wirwetten247.com
+wonclub.com
 worldsportsbetting.co.za
 zebet.fr

@@ -1,5 +1,5 @@
 #Version: 1.1
-#Serial: 20210615
+#Serial: 20211005
 10futuriti.ru
 11redping.win
 1allrightcasino.com
@@ -8,6 +8,7 @@
 1burancasino.com
 1gratorama.com
 1luckybirdcasino.com
+20bet.com
 21dukes.com
 21dukes-casino.com
 21grandcasino.com
@@ -18,8 +19,10 @@
 22bet7.com
 22bet7.net
 22bet8.info
+22bets.me
 24bettle.com
 24kcasino.com
+288-563.com
 288sb.com
 2allrightcasino.com
 2luckybirdcasino.com
@@ -68,9 +71,11 @@ bahigo112.com
 bahigo125.com
 bahigo178.com
 bahigo207.com
+bahigo23.com
 bahigo28.com
 bahigo42.com
 bahigo50.com
+bahigo64.com
 banzaislots.com
 baocasino.com
 bc.game
@@ -91,6 +96,7 @@ betchan19.com
 betchan32.com
 betchan-exclusive.com
 betmaster.io
+betmasternow.com
 betmastertop.com
 bettilt.com
 bettilt876.com
@@ -145,13 +151,16 @@ casinoestrella2020.com
 casinoestrellavip.com
 casinoextra.com
 casinoin.io
+casinoinonline.com
 casinoirishluck.com
 casino-mate.com
 casinomga.com
 casinomia.com
 casinomidas.com
 casinonic.com
+casinopurple.com
 casinosuperlines.com
+casinowin.bet
 casino-x.club
 casino-x.com
 casino-x1.club
@@ -159,6 +168,7 @@ casino-x1.com
 casino-x1010.com
 casino-x1034.com
 casino-z.com
+casitsu.com
 casoo.com
 cbet.gg
 chanz.com
@@ -205,6 +215,7 @@ exclusivecasino.com
 extrabet777.com
 fezbet.com
 fezbet1.com
+fightclubcasino.com
 fortuneclock.com
 fortunelegends.com
 frankcasino.com
@@ -232,6 +243,7 @@ grattorama.com
 greenspin.bet
 gslot.com
 gunsbet.com
+highwaycasino.com
 horuscasino.com
 igame.com
 intertops.eu
@@ -239,10 +251,12 @@ interwetten.com
 interwetten1.com
 interwetten7.com
 jackpotcapital.eu
+jackpotcrypto.com
 jellybeancasino.com
 joocasino.com
 joocasino11.com
 kimvegas.com
+kimvegaspartners.com
 kingbilly.com
 kingbillycasino.com
 kingbitcasino.com
@@ -313,7 +327,12 @@ pasino.com
 pinnacle.bet
 pinnacle.com
 pinnaclesports.com
+playamo.bet
 playamo.com
+playamo10.com
+playamo18.com
+playamo19.com
+playamo20.com
 playamo25.com
 playamo27.com
 playamo28.com
@@ -323,8 +342,11 @@ playamo32.com
 playamo33.com
 playamo34.com
 playamo35.com
+playamopartners.com
 poker.intertops.eu
 powercasino.bet
+premiercasino.com
+profibull.com
 rabona.com
 rabona1.com
 reddice.be
@@ -366,6 +388,7 @@ spartanslots.com
 spartan-slots.net
 spartansslots.net
 spinia.com
+spinia13.com
 spinia4.com
 spinia6.com
 spinia8.com
@@ -384,6 +407,8 @@ sportsbet.io
 stake.com
 stakes.com
 starcasino.be
+superbit.casino
+superbit1.casino
 supercatcasino.com
 supercat-casino.com
 superiorcasino.com
@@ -391,6 +416,7 @@ surfcasino.com
 syndicate.casino
 tangierscasino.com
 tempobet.com
+thejackpotcrypto.com
 tigergaming.com
 timessquarecasino.com
 trustdice.win
@@ -421,10 +447,16 @@ wildblaster.com
 wildblaster88.com
 wildfortune.com
 wildtornado.casino
+wildtornado1.casino
+wildtornado2.casino
+wildtornado3.casino
+wildtornado4.casino
+wildtornado5.casino
 winfest.com
 winorama.com
 winorama77.com
 winoui.com
+winprincess.com
 winspark.com
 winspark77.com
 winx24.com
