@@ -1,5 +1,5 @@
 #Version: 1
-#Serial: 20211005
+#Serial: 20220503
 1bet.com
 20bet.com
 22bet.com
@@ -19,6 +19,7 @@ bahigo28.com
 bahigo35.com
 bahigo42.com
 bahigo64.com
+bahigo72.com
 bahigo112.com
 bahigo125.com
 bahigo178.com
@@ -31,12 +32,15 @@ bet365.it
 betadonis.com
 betaland.it
 betbigwin.com
+betbird.com
 betclic.com
 betflag.it
 betlima117.com
 betlive.com
 betmaster.io
+betmasterlive.com
 betnow.eu
+betobet.com
 betolimp.com
 betonline.ag
 betrebels.com
@@ -63,14 +67,18 @@ betworld17.com
 betworld18.com
 betworld19.com
 betworld20.com
+bgo247.com
 buff.bet
+campobet1.com
 casinia2.com
 cbet.gg
 coinbet24.com
 cryptobet.com
 cryptokitties.co
 csgoempire.com
+duelbits.com
 efbet.net
+egb.com
 escowin10.com
 eurolloto.com
 eurolloto.me
@@ -88,6 +96,9 @@ forzza2.com
 forzza3.com
 forzza7.com
 forzza45.com
+forzza99.com
+gamdom.com
+gg.bet
 ggbet.com
 gwbet.com
 helwettia.com
@@ -103,8 +114,10 @@ interwetten6.com
 interwetten7.com
 interwetten8.com
 interwetten9.com
+interwetten10.com
 kto.com
 lopoca.com
+lotos-wetten.de
 lottery.com
 lsbet.com
 luckybirdcasino.com
@@ -115,6 +128,7 @@ mybet.de
 mybookie.ag
 palmerbet.com
 pegasosonline.net
+pferdewetten.de
 pinnacle.com
 profibull.com
 raffall.com
@@ -134,6 +148,7 @@ solobet13.com
 solobet14.com
 solobet15.com
 sorare.com
+sportaza1.com
 sports4africa.com
 sportsbet.io
 sportsbetting.ag
@@ -144,9 +159,11 @@ supabets.co.zw
 svenbet.com
 tigergaming.com
 tipbet.com
+tipster.de
 tipxbet.com
 topbet.eu
 topsport.lt
+tornadobet.com
 unibet.com
 unikrn.com
 uwin4u.com
@@ -164,4 +181,5 @@ wirwetten.com
 wirwetten247.com
 wonclub.com
 worldsportsbetting.co.za
+yonibet.com
 zebet.fr
