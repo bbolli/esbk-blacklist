@@ -51,7 +51,7 @@ openssl x509 -noout -text -in signer.pem |
 #Extract Address of revocation list
 crl=$(openssl x509 -noout -text -in signer.pem |
     grep -A 4 'X509v3 CRL Distribution Points' |
-    awk -FURI: '/URI:/ { print $2 }')
+    awk -FURI: '/URI:http/ { print $2; exit }')
 
 #Download Revocation List:
 wget -qO crl $crl
