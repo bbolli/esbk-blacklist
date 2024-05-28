@@ -1,5 +1,5 @@
 #Version: 1
-#Serial: 20240227
+#Serial: 20240528
 1bet-01.com
 1bet.co
 1bet.com
@@ -17,6 +17,7 @@
 22bet8.co
 22betgo.com
 22betxz.com
+188-sb.com
 288-563.com
 288sb.com
 365-288.com
@@ -24,6 +25,7 @@
 888starz.bet
 3000bet10.com
 3000bet20.com
+3000bet50.com
 365488.com
 abmbet.com
 admiralshark.com
@@ -44,6 +46,7 @@ bahigo42.com
 bahigo55.com
 bahigo60.com
 bahigo64.com
+bahigo67.com
 bahigo72.com
 bahigo80.com
 bahigo89.com
@@ -57,6 +60,7 @@ bc.game
 bc.site
 bet-at-home.com
 bet-at-home02.com
+bet-at-home04.com
 bet7de.com
 bet22.ch
 bet365.com
@@ -113,6 +117,7 @@ buff.bet
 burningbet.com
 campobet1.com
 captainsbet.com
+cashwin663491.com
 casinia2.com
 casinomarriott.com
 casinosschweizonline.com
@@ -138,10 +143,12 @@ egb.com
 elobet.com
 elobet20.com
 elobet50.com
+elobet51.com
 escowin.com
 escowin10.com
 escowin20.com
 escowin50.com
+escowin51.com
 eurolloto.com
 eurolloto.me
 eurolotto-service.com
@@ -174,6 +181,7 @@ ggbet.com
 ggbetcenter.net
 ggbethome.net
 ggbetpromo.com
+globusbet.com
 goldenbet.com
 gomblingo.com
 gomblingo1.com
@@ -211,6 +219,7 @@ interwetten11.com
 interwetten12.com
 interwetten13.com
 interwetten14.com
+interwetten15.com
 ivibet.com
 ivibet.io
 ivibet.net
@@ -258,10 +267,12 @@ olympusbet.com
 palmerbet.com
 palmslots.com
 parierensuisse.com
+parierensuisse.net
 paripesa.com
 paris-sportifs-suisse.com
 parissportifssuisse.ch
 parissportifssuisse.com
+parissportifssuisse.net
 parku.ch
 pegasosonline.net
 pepebet.com
@@ -295,6 +306,7 @@ rolletto.com
 royaleclub.ch
 royalistplay.com
 royaloakcasino.co
+schweizersportwetten.com
 select.bet
 shangrilalive.com
 sharplotto.com
@@ -330,15 +342,18 @@ solobet21.com
 sorare.com
 sportaza1.com
 sportaza3.com
+sportaza10.com
 sportaza13.com
 sports4africa.com
 sportsbet.io
 sportsbetting.ag
 sportwettench.com
 sportwettenschweiz.net
+sportwettenvergleich.net
 sporwin.com
 sporwin20.com
 sporwin50.com
+sporwin51.com
 spreadex.com
 starpricebet.at
 starpricebet.com
@@ -356,9 +371,11 @@ topsport.lt
 tornadobet.com
 tuskcasino.com
 tutibet20.com
+tutibet50.com
 unibet.com
 unikrn.com
 uwin4u.com
+vave4.com
 vierklee-wetten.com
 vigiswiss.ch
 vigiswisscasino.com
@@ -371,6 +388,7 @@ wettigo.direct
 wettigo1.com
 wettigo2.com
 wettigo3.com
+wettigo10.com
 wettigoo.net
 wettpionier.com
 whamoo.com
