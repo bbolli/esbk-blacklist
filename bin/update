@@ -17,14 +17,14 @@ while getopts n opt; do
 done
 
 #Download Root certificate:
-wget -qO swiss_governmentrootcaii.crt https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentrootcaii.crt.download.crt/swiss_governmentrootcaii.crt
+wget -qO swiss_governmentrootcaii.crt https://www.pki.admin.ch/aia/RootCAIII
 
 #Convert Root certificate:
 openssl x509 -in swiss_governmentrootcaii.crt -out swiss_governmentrootcaii.pem -outform pem
 rm swiss_governmentrootcaii.crt
 
 #Download Intermediate certificate:
-wget -qO swiss_governmentregularca01.cer https://www.bit.admin.ch/dam/bit/de/dokumente/pki/scanning_center/swiss_governmentregularca01.cer.download.cer/swiss_governmentregularca01.cer
+wget -qO swiss_governmentregularca01.cer https://www.pki.admin.ch/aia/RegularCA02
 
 #Convert Intermediate certificate:
 openssl x509 -inform der -in swiss_governmentregularca01.cer -out swiss_governmentregularca01.pem
