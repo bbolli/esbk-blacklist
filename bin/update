@@ -38,7 +38,7 @@ rm swiss_government*.pem
 wget -qO blacklist.eml https://www.esbk.admin.ch/dam/data/esbk/illegalesspiel/zugangssperren/blacklist.eml
 
 #Verify blacklist.eml and extract certificate:
-openssl smime -verify -in blacklist.eml -CAfile swiss_gov_ca_cert.pem -signer signer.pem -out textdata 2>verify.txt
+openssl smime -verify -in blacklist.eml -CAfile swiss_gov_ca_cert.pem -signer signer.pem -out textdata 2>verify.txt || true
 grep -q 'Verification successful' verify.txt ||
     fail "Signature verification failed"
 
