@@ -1,5 +1,5 @@
 #Version: 1
-#Serial: 20240528
+#Serial: 20241126
 1bet-01.com
 1bet.co
 1bet.com
@@ -7,7 +7,10 @@
 4cus.net
 20bet-bet.com
 20bet-s.com
+20bet.ch
 20bet.com
+20bet.org
+20beta.com
 20beto.com
 20bettin.com
 21bets.com
@@ -26,7 +29,11 @@
 3000bet10.com
 3000bet20.com
 3000bet50.com
+3000bet51.com
+3000bet52.com
 365488.com
+28365365.com
+688365365.com
 abmbet.com
 admiralshark.com
 africabet.co.zw
@@ -34,6 +41,8 @@ agentnowager.com
 allrightcasino.com
 allsport365.com
 alpenwetten.com
+amunra3.com
+amunra7.com
 anogame.com
 anoguess.com
 bahigo.com
@@ -42,6 +51,7 @@ bahigo.live
 bahigo23.com
 bahigo28.com
 bahigo35.com
+bahigo38.com
 bahigo42.com
 bahigo55.com
 bahigo60.com
@@ -49,6 +59,7 @@ bahigo64.com
 bahigo67.com
 bahigo72.com
 bahigo80.com
+bahigo84.com
 bahigo89.com
 bahigo97.com
 bahigo104.com
@@ -61,6 +72,7 @@ bc.site
 bet-at-home.com
 bet-at-home02.com
 bet-at-home04.com
+bet-football.com
 bet7de.com
 bet22.ch
 bet365.com
@@ -73,6 +85,8 @@ betbigwin.com
 betbird.com
 betclic.com
 betflag.it
+betify.co
+betify.com
 betinia1.com
 betlima117.com
 betlive.com
@@ -85,11 +99,15 @@ betolimp.com
 betonic2.com
 betonline.ag
 betrebels.com
+betriot4.com
+betriot5.com
 betroom24.com
 bets.io
 betsofa.com
 betspawn.com
 bettilt.com
+betvolo.com
+betvora.com
 betworld.com
 betworld1.com
 betworld2.com
@@ -113,12 +131,18 @@ betworld19.com
 betworld20.com
 bgo247.com
 bitcoin-games.net
+bookofcasino.net
+boomerang-bet1.com
+boomerang-bet2.com
+botb.com
 buff.bet
 burningbet.com
 campobet1.com
 captainsbet.com
 cashwin663491.com
 casinia2.com
+casinoinfinity2.com
+casinoinfinity3.com
 casinomarriott.com
 casinosschweizonline.com
 casinounlimited1.com
@@ -127,6 +151,7 @@ casobet.com
 cbet.gg
 chillbet.net
 chips.gg
+cloud0003.com
 cloudbet.com
 cobraspins.co
 coinbet24.com
@@ -135,6 +160,7 @@ cryptokitties.co
 csgoempire.com
 dachbet.com
 dachbet1.com
+dein-lottoclub.com
 dream2.bet
 duelbits.com
 efbet.net
@@ -144,11 +170,15 @@ elobet.com
 elobet20.com
 elobet50.com
 elobet51.com
+elobet52.com
+elobet53.com
 escowin.com
 escowin10.com
 escowin20.com
 escowin50.com
 escowin51.com
+escowin52.com
+escowin53.com
 eurolloto.com
 eurolloto.me
 eurolotto-service.com
@@ -162,6 +192,7 @@ expekt.com
 fanteam.com
 fezbet5.com
 fezbet6.com
+flashbet.vip
 fortunejack.com
 forzza.com
 forzza1.com
@@ -173,7 +204,10 @@ forzza99.com
 fruitychance.com
 gamdom.com
 gamdom.io
+gewinbet.com
+gewinnbet.com
 gg.bet
+gg261.bet
 ggbbbet.com
 ggbbbet.net
 ggbestbet.net
@@ -181,7 +215,9 @@ ggbet.com
 ggbetcenter.net
 ggbethome.net
 ggbetpromo.com
+giantlottos.com
 globusbet.com
+gmxbet20.com
 goldenbet.com
 gomblingo.com
 gomblingo1.com
@@ -220,6 +256,8 @@ interwetten12.com
 interwetten13.com
 interwetten14.com
 interwetten15.com
+interwetten16.com
+interwetten17.com
 ivibet.com
 ivibet.io
 ivibet.net
@@ -232,11 +270,15 @@ kombiwin25.com
 kto.com
 lapilanders.com
 lebonparisportif.com
+legendplay-0118.com
+legendplay2.com
+legendplay4.com
 legendplay5.com
 legendplay6.com
 levelupcasino.com
 levelupcasino2.com
 librabet1.com
+librabet5.com
 lopoca.com
 lotos-wetten.de
 lottery.com
@@ -247,6 +289,7 @@ luckybirdcasino.com
 luckybull.com
 matchbook.com
 medwinx10.com
+megadice.com
 megapari.com
 meridianbet.com.cy
 mint.io
@@ -260,16 +303,24 @@ mybookie.ag
 mystake.bet
 n1bet.com
 ninecasino.com
+ninewin.com
 nolimit365.com
 nordiscasino.com
+nucleonbet.com
+oddjusta.com
 ole7.io
 olympusbet.com
+onlinelotterien.ch
+orbitxch.com
+p0wbet.com
 palmerbet.com
 palmslots.com
 parierensuisse.com
 parierensuisse.net
+parieursuisse.com
 paripesa.com
 paris-sportifs-suisse.com
+parisportif.tv
 parissportifssuisse.ch
 parissportifssuisse.com
 parissportifssuisse.net
@@ -278,7 +329,9 @@ pegasosonline.net
 pepebet.com
 pferdewetten.de
 pinnacle.com
+polymarket.com
 powbet5.com
+powbet6.com
 powbet9.com
 pribet.com
 pribet2.com
@@ -287,10 +340,14 @@ promolegendplay.com
 promovalais.ch
 pronostiquersuisse.com
 pyramidspin2.com
+quickwin1.com
+quickwin2.com
 rabona4.com
 rabona5.com
 raffall.com
 rajabets.com
+redonbet.com
+revolutioncasino1.com
 richprize.com
 rickycasino.com
 robet247.com
@@ -303,6 +360,7 @@ rocketplay7.com
 rocketplay8.com
 rokubet3.com
 rolletto.com
+rooster.bet
 royaleclub.ch
 royalistplay.com
 royaloakcasino.co
@@ -316,6 +374,8 @@ silverplay2.com
 siskobet.com
 slotimo.com
 slotimo2.com
+slotspalace.com
+slotspalace3.com
 slottica.com
 snatchcasino.com
 snatchcasino1.com
@@ -339,7 +399,10 @@ solobet15.com
 solobet16.com
 solobet20.com
 solobet21.com
+solobet50.com
 sorare.com
+spinanga2.com
+spinanga3.com
 sportaza1.com
 sportaza3.com
 sportaza10.com
@@ -347,6 +410,8 @@ sportaza13.com
 sports4africa.com
 sportsbet.io
 sportsbetting.ag
+sportuna.com
+sportuna8.com
 sportwettench.com
 sportwettenschweiz.net
 sportwettenvergleich.net
@@ -354,11 +419,14 @@ sporwin.com
 sporwin20.com
 sporwin50.com
 sporwin51.com
+sporwin52.com
+sporwin53.com
 spreadex.com
 starpricebet.at
 starpricebet.com
 sultanbet.com
 supabets.co.zw
+superenalotto.net
 svenbet.com
 theredlioncasino.co
 tigergaming.com
@@ -372,6 +440,7 @@ tornadobet.com
 tuskcasino.com
 tutibet20.com
 tutibet50.com
+tutibet51.com
 unibet.com
 unikrn.com
 uwin4u.com
@@ -380,6 +449,8 @@ vierklee-wetten.com
 vigiswiss.ch
 vigiswisscasino.com
 vulkanbet.com
+wazamba-8753.com
+wazamba77.com
 webbyslot.com
 weltbet.com
 weltbet11.com
@@ -389,9 +460,12 @@ wettigo1.com
 wettigo2.com
 wettigo3.com
 wettigo10.com
+wettigo50.com
+wettigo60.com
 wettigoo.net
 wettpionier.com
 whamoo.com
+wild.io
 windiggers.com
 winnabets.com
 winnerzon.com
@@ -406,6 +480,7 @@ wirwetten.com
 wirwetten.info
 wirwetten247.com
 wonclub.com
+woocasino90.com
 worldsportsbetting.co.za
 yetiwin.com
 yonibet.com
@@ -414,3 +489,4 @@ yonibet1.com
 yonibet2.com
 zebet.fr
 zodiacbet.com
+zotabet.com
