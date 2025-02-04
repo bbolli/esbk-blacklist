@@ -1,10 +1,11 @@
 #Version: 1
-#Serial: 20241126
+#Serial: 20250204
 1bet-01.com
 1bet.co
 1bet.com
 1x2bgo.com
 4cus.net
+11bet-at-home.com
 20bet-bet.com
 20bet-s.com
 20bet.ch
@@ -13,6 +14,7 @@
 20beta.com
 20beto.com
 20bettin.com
+20bettwin.com
 21bets.com
 22bet-bet.com
 22bet.com
@@ -24,6 +26,7 @@
 288-563.com
 288sb.com
 365-288.com
+724blue.com
 788-sb.com
 888starz.bet
 3000bet10.com
@@ -31,7 +34,10 @@
 3000bet50.com
 3000bet51.com
 3000bet52.com
+3000bet53.com
+3000bet54.com
 365488.com
+365838.com
 28365365.com
 688365365.com
 abmbet.com
@@ -45,6 +51,7 @@ amunra3.com
 amunra7.com
 anogame.com
 anoguess.com
+bah24.com
 bahigo.com
 bahigo.im
 bahigo.live
@@ -61,6 +68,7 @@ bahigo72.com
 bahigo80.com
 bahigo84.com
 bahigo89.com
+bahigo92.com
 bahigo97.com
 bahigo104.com
 bahigo112.com
@@ -72,6 +80,8 @@ bc.site
 bet-at-home.com
 bet-at-home02.com
 bet-at-home04.com
+bet-at-home68.com
+bet-at-home135.com
 bet-football.com
 bet7de.com
 bet22.ch
@@ -103,11 +113,14 @@ betriot4.com
 betriot5.com
 betroom24.com
 bets.io
+betschweiz.ch
 betsofa.com
 betspawn.com
 bettilt.com
 betvolo.com
+betvolo1.com
 betvora.com
+betvora1.com
 betworld.com
 betworld1.com
 betworld2.com
@@ -130,6 +143,7 @@ betworld18.com
 betworld19.com
 betworld20.com
 bgo247.com
+bhgapp.com
 bitcoin-games.net
 bookofcasino.net
 boomerang-bet1.com
@@ -151,6 +165,7 @@ casobet.com
 cbet.gg
 chillbet.net
 chips.gg
+chipstars5.bet
 cloud0003.com
 cloudbet.com
 cobraspins.co
@@ -172,6 +187,7 @@ elobet50.com
 elobet51.com
 elobet52.com
 elobet53.com
+elobet54.com
 escowin.com
 escowin10.com
 escowin20.com
@@ -179,6 +195,7 @@ escowin50.com
 escowin51.com
 escowin52.com
 escowin53.com
+escowin54.com
 eurolloto.com
 eurolloto.me
 eurolotto-service.com
@@ -218,6 +235,7 @@ ggbetpromo.com
 giantlottos.com
 globusbet.com
 gmxbet20.com
+gmxbet50.com
 goldenbet.com
 gomblingo.com
 gomblingo1.com
@@ -258,6 +276,7 @@ interwetten14.com
 interwetten15.com
 interwetten16.com
 interwetten17.com
+interwetten18.com
 ivibet.com
 ivibet.io
 ivibet.net
@@ -292,6 +311,7 @@ medwinx10.com
 megadice.com
 megapari.com
 meridianbet.com.cy
+mightytips.net
 mint.io
 misterxcasino.com
 mrxbet.com
@@ -318,6 +338,7 @@ palmslots.com
 parierensuisse.com
 parierensuisse.net
 parieursuisse.com
+parieursuisse.org
 paripesa.com
 paris-sportifs-suisse.com
 parisportif.tv
@@ -360,10 +381,13 @@ rocketplay7.com
 rocketplay8.com
 rokubet3.com
 rolletto.com
+roobet.com
 rooster.bet
 royaleclub.ch
 royalistplay.com
 royaloakcasino.co
+royspins.ch
+royspins.com
 schweizersportwetten.com
 select.bet
 shangrilalive.com
@@ -400,6 +424,7 @@ solobet16.com
 solobet20.com
 solobet21.com
 solobet50.com
+solobet51.com
 sorare.com
 spinanga2.com
 spinanga3.com
@@ -410,6 +435,7 @@ sportaza13.com
 sports4africa.com
 sportsbet.io
 sportsbetting.ag
+sporttyp.com
 sportuna.com
 sportuna8.com
 sportwettench.com
@@ -421,10 +447,12 @@ sporwin50.com
 sporwin51.com
 sporwin52.com
 sporwin53.com
+sporwin54.com
 spreadex.com
 starpricebet.at
 starpricebet.com
 sultanbet.com
+sultanbet777.com
 supabets.co.zw
 superenalotto.net
 svenbet.com
@@ -462,6 +490,7 @@ wettigo3.com
 wettigo10.com
 wettigo50.com
 wettigo60.com
+wettigo132.com
 wettigoo.net
 wettpionier.com
 whamoo.com
@@ -482,6 +511,7 @@ wirwetten247.com
 wonclub.com
 woocasino90.com
 worldsportsbetting.co.za
+xibetting.com
 yetiwin.com
 yonibet.com
 yonibet.eu
