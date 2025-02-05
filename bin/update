@@ -8,10 +8,10 @@ fail() {
     exit 1
 }
 
-dryrun=
+dryrun=false
 while getopts n opt; do
     case $opt in
-        n) dryrun=1;;
+        n) dryrun=true; set -x;;
         ?) exit 1;;
     esac
 done
@@ -72,9 +72,12 @@ sed -n 's/\x0d$//; s/=0A=$//; /^#/,/^------/p' blacklist.eml |
 wget -qO comlot_blacklist.txt https://blacklist.comlot.ch/comlot_blacklist.txt
 wget -qO comlot_blacklist_cert.txt https://blacklist.comlot.ch/blacklist.comlot.ch.pub
 
+# cleanup
+$dryrun || rm -f sg_* *.eml signer.pem *.out
+
 # commit and push on changes
 if test "$(git ls-files -mo --exclude-standard '*.txt')"; then
-    if test -z "$dryrun"; then
+    if ! $dryrun; then
         git add '*.txt'
         git commit -m update
         git push
