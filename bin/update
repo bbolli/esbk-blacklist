@@ -17,29 +17,26 @@ while getopts n opt; do
 done
 
 #Download Root certificate:
-wget -qO swiss_governmentrootcaii.crt https://www.pki.admin.ch/aia/RootCAIII
+wget -qO- https://www.pki.admin.ch/aia/RootCAIII |
 
 #Convert Root certificate:
-openssl x509 -in swiss_governmentrootcaii.crt -out swiss_governmentrootcaii.pem -outform pem
-rm swiss_governmentrootcaii.crt
+openssl x509 -out sg_root.pem -outform pem
 
 #Download Intermediate certificate:
-wget -qO swiss_governmentregularca01.cer https://www.pki.admin.ch/aia/RegularCA02
+wget -qO- https://www.pki.admin.ch/aia/RegularCA02 |
 
 #Convert Intermediate certificate:
-openssl x509 -inform der -in swiss_governmentregularca01.cer -out swiss_governmentregularca01.pem
-rm swiss_governmentregularca01.cer
+openssl x509 -inform der -out sg_inter.pem
 
 #Build CAfile (certificate chain):
-cat swiss_governmentrootcaii.pem swiss_governmentrootcaii.pem >swiss_gov_ca_cert.pem
-rm swiss_government*.pem
+cat sg_inter.pem sg_root.pem >sg_chain.pem
 
 #Download blacklist.eml:
 wget -qO blacklist.eml https://www.esbk.admin.ch/dam/data/esbk/illegalesspiel/zugangssperren/blacklist.eml
 
 #Verify blacklist.eml and extract certificate:
-openssl smime -verify -in blacklist.eml -CAfile swiss_gov_ca_cert.pem -signer signer.pem -out textdata 2>verify.txt || true
-grep -q 'Verification successful' verify.txt ||
+openssl smime -verify -in blacklist.eml -CAfile sg_chain.pem -signer signer.pem -out textdata 2>smime_verify.out || true
+grep -q 'Verification successful' smime_verify.out ||
     fail "Signature verification failed"
 
 #Check certificate of blacklist.eml has been issued for provider@esbk.admin.ch
@@ -54,19 +51,17 @@ crl=$(openssl x509 -noout -text -in signer.pem |
     awk -FURI: '/URI:http/ { print $2; exit }')
 
 #Download Revocation List:
-wget -qO crl $crl
+wget -qO- $crl |
 
 #Convert Revocation List to pem:
-openssl crl -inform DER -in crl -outform PEM -out crl.pem
-rm crl
+openssl crl -inform der -outform pem -out sg_crl.pem
 
 #Build Revocation chain:
-cat swiss_gov_ca_cert.pem crl.pem >swiss_gov_ca_cert_and_crl.pem
-rm crl.pem
+cat sg_crl.pem sg_chain.pem >sg_crl_chain.pem
 
 #Verify blacklist.eml against Certificate Chain AND Revocation List:
-openssl smime -verify -crl_check -in blacklist.eml -CAfile swiss_gov_ca_cert_and_crl.pem -out textdata 2>>verify.txt
-grep -q 'Verification successful' verify.txt ||
+openssl smime -verify -crl_check -in blacklist.eml -CAfile sg_crl_chain.pem -out textdata 2>crl_verify.out
+grep -q 'Verification successful' crl_verify.out ||
     fail "CRL verification failed"
 
 # extract the blacklist
