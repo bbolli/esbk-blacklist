@@ -1,7 +1,8 @@
 #Version: 1
-#Serial: 20250204
+#Serial: 20250527
 1bet-01.com
 1bet.co
+1bet.co.com
 1bet.com
 1x2bgo.com
 4cus.net
@@ -12,6 +13,7 @@
 20bet.com
 20bet.org
 20beta.com
+20betgame.net
 20beto.com
 20bettin.com
 20bettwin.com
@@ -20,6 +22,7 @@
 22bet.com
 22bet.online
 22bet8.co
+22bet45.com
 22betgo.com
 22betxz.com
 188-sb.com
@@ -36,6 +39,7 @@
 3000bet52.com
 3000bet53.com
 3000bet54.com
+3000bet56.com
 365488.com
 365838.com
 28365365.com
@@ -97,6 +101,7 @@ betclic.com
 betflag.it
 betify.co
 betify.com
+betify1.com
 betinia1.com
 betlima117.com
 betlive.com
@@ -114,8 +119,10 @@ betriot5.com
 betroom24.com
 bets.io
 betschweiz.ch
+betsio.com
 betsofa.com
 betspawn.com
+betswap8.gg
 bettilt.com
 betvolo.com
 betvolo1.com
@@ -145,9 +152,12 @@ betworld20.com
 bgo247.com
 bhgapp.com
 bitcoin-games.net
+bookmaker.eu
+bookmakers.bet
 bookofcasino.net
 boomerang-bet1.com
 boomerang-bet2.com
+boomerang-bet4107.com
 botb.com
 buff.bet
 burningbet.com
@@ -170,6 +180,7 @@ cloud0003.com
 cloudbet.com
 cobraspins.co
 coinbet24.com
+crownplay2881.com
 cryptobet.com
 cryptokitties.co
 csgoempire.com
@@ -188,6 +199,8 @@ elobet51.com
 elobet52.com
 elobet53.com
 elobet54.com
+elobet56.com
+emiratesdraw.com
 escowin.com
 escowin10.com
 escowin20.com
@@ -196,6 +209,7 @@ escowin51.com
 escowin52.com
 escowin53.com
 escowin54.com
+escowin56.com
 eurolloto.com
 eurolloto.me
 eurolotto-service.com
@@ -207,6 +221,7 @@ exclusivebet.eu
 exclusivebeteu.com
 expekt.com
 fanteam.com
+fezbet-7136.com
 fezbet5.com
 fezbet6.com
 flashbet.vip
@@ -219,6 +234,8 @@ forzza7.com
 forzza45.com
 forzza99.com
 fruitychance.com
+funbet-6745.com
+funbet1.com
 gamdom.com
 gamdom.io
 gewinbet.com
@@ -257,8 +274,10 @@ hot3.bet
 hot4.bet
 hot5.bet
 hot6.bet
+hypedrop.com
 intertops.eu
 interwetten.com
+interwetten.de
 interwetten1.com
 interwetten2.com
 interwetten3.com
@@ -277,6 +296,7 @@ interwetten15.com
 interwetten16.com
 interwetten17.com
 interwetten18.com
+interwetten19.com
 ivibet.com
 ivibet.io
 ivibet.net
@@ -290,10 +310,14 @@ kto.com
 lapilanders.com
 lebonparisportif.com
 legendplay-0118.com
+legendplay-7020.com
+legendplay1.com
 legendplay2.com
 legendplay4.com
 legendplay5.com
 legendplay6.com
+legiano-1315.com
+legiano10.com
 levelupcasino.com
 levelupcasino2.com
 librabet1.com
@@ -301,11 +325,13 @@ librabet5.com
 lopoca.com
 lotos-wetten.de
 lottery.com
+lottopark.com
 lp247p.com
 lsbet.com
 luckbox.com
 luckybirdcasino.com
 luckybull.com
+lunubet2551.com
 matchbook.com
 medwinx10.com
 megadice.com
@@ -313,6 +339,7 @@ megapari.com
 meridianbet.com.cy
 mightytips.net
 mint.io
+mission-handicap-assurance.fr
 misterxcasino.com
 mrxbet.com
 mrxbet.net
@@ -351,6 +378,7 @@ pepebet.com
 pferdewetten.de
 pinnacle.com
 polymarket.com
+posido823.com
 powbet5.com
 powbet6.com
 powbet9.com
@@ -363,6 +391,7 @@ pronostiquersuisse.com
 pyramidspin2.com
 quickwin1.com
 quickwin2.com
+rab0na-6830.com
 rabona4.com
 rabona5.com
 raffall.com
@@ -388,6 +417,7 @@ royalistplay.com
 royaloakcasino.co
 royspins.ch
 royspins.com
+sbo.ne
 schweizersportwetten.com
 select.bet
 shangrilalive.com
@@ -396,6 +426,8 @@ silverplay.com
 silverplay1.com
 silverplay2.com
 siskobet.com
+siskowin.com
+siskowin1.com
 slotimo.com
 slotimo2.com
 slotspalace.com
@@ -425,9 +457,12 @@ solobet20.com
 solobet21.com
 solobet50.com
 solobet51.com
+solobet53.com
+solobet54.com
 sorare.com
 spinanga2.com
 spinanga3.com
+spinrollz020.com
 sportaza1.com
 sportaza3.com
 sportaza10.com
@@ -436,6 +471,7 @@ sports4africa.com
 sportsbet.io
 sportsbetting.ag
 sporttyp.com
+sporttyp1.com
 sportuna.com
 sportuna8.com
 sportwettench.com
@@ -448,6 +484,7 @@ sporwin51.com
 sporwin52.com
 sporwin53.com
 sporwin54.com
+sporwin57.com
 spreadex.com
 starpricebet.at
 starpricebet.com
@@ -469,6 +506,7 @@ tuskcasino.com
 tutibet20.com
 tutibet50.com
 tutibet51.com
+uklotterylive.com
 unibet.com
 unikrn.com
 uwin4u.com
@@ -476,6 +514,7 @@ vave4.com
 vierklee-wetten.com
 vigiswiss.ch
 vigiswisscasino.com
+viperwin3.com
 vulkanbet.com
 wazamba-8753.com
 wazamba77.com
@@ -496,6 +535,7 @@ wettpionier.com
 whamoo.com
 wild.io
 windiggers.com
+wingaga3.com
 winnabets.com
 winnerzon.com
 winning.io
