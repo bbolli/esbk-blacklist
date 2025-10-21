@@ -1,5 +1,5 @@
 #Version: 1
-#Serial: 20250826
+#Serial: 20251021
 1bet-01.com
 1bet.co
 1bet.co.com
@@ -40,6 +40,8 @@
 22bet94.com
 22betgo.com
 22betxz.com
+25rockyspin81.com
+34rockyspin63.com
 188-sb.com
 288-563.com
 288sb.com
@@ -351,6 +353,7 @@ jeetcity8.com
 jeetcity9.com
 jeetcity10.com
 jet.casino
+jouezsporte.ch
 kombiwin25.com
 kto.com
 lapilanders.com
@@ -399,6 +402,7 @@ my-stake.bet
 mybet.com
 mybet.de
 mybookie.ag
+mycasinoch.ch
 mystake.bet
 n1-bet.com
 n1bet-sport.com
@@ -560,6 +564,9 @@ sultanbet777.com
 supabets.co.zw
 superenalotto.net
 svenbet.com
+swisslosch.ch
+swisslottoch.ch
+tervino1.com
 theredlioncasino.co
 tigergaming.com
 tipbet.com
