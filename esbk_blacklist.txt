@@ -300,7 +300,7 @@ askgamblers.com
 astcasino.com
 astromania2.com
 auscasinos.org
-ausl=C3=A4ndischeonlinecasinos.eu.com
+auslandischeonlinecasinos.eu.com
 aussieplaybonuses.com
 avalon78.com
 avalon781.com
@@ -549,8 +549,8 @@ bluechip.io
 blueleo.com
 bluvegas.com
 bmb01cm.lpmediastorage.com
-boaboa.com 
-boaboa1.com 
+boaboa.com
+boaboa1.com
 boaboa7.com
 bobcasino.com
 bobcasino15.com
@@ -621,8 +621,8 @@ burancasino-8812.com
 burningbet.com
 buzzaffiliates.com
 cabarino.com
-cadoola.com 
-cadoola3.com 
+cadoola.com
+cadoola3.com
 cadoola6.com
 campeonbet.com
 campobet.com
@@ -658,7 +658,7 @@ casinado3.com
 casineo.gg
 casinerx.com
 casinex.com
-casinia.com 
+casinia.com
 casinia1.com
 casinia2.com
 casinia3.com
@@ -666,7 +666,7 @@ casinia4.com
 casinia5.com
 casinia6.com
 casinia641.com
-casino.com=E2=80=8B
+casino.com
 casino.info
 casino.intertops.eu
 casino.online
@@ -1127,7 +1127,7 @@ gamblo.ag
 gameassists.co.uk
 gameplace.ch
 games.bitcoin.com
-gamesbasis.com=E2=80=8B
+gamesbasis.com
 gamingcity.com
 gamingtoday.com
 gamingzion.com
@@ -1613,7 +1613,7 @@ lunubet2.com
 lunubet2551.com
 lunubet4211.com
 lyracasino.com
-machance.com 
+machance.com
 machance-big.online
 machancecasino.com
 madamechance.com
@@ -2136,7 +2136,7 @@ refuelcasino.com
 refuelcasino1.com
 regentplay.com
 reloadbet.com
-reloadbet8.com 
+reloadbet8.com
 rembrandtcasino.com
 respin.bet
 revolutioncasino1.com
@@ -2944,4 +2944,3 @@ zlr.ch
 zodiacbet.com
 zoome.casino
 zotabet.com
-
