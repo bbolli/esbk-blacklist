@@ -1,5 +1,5 @@
 #Version: 1
-#Serial: 20260224
+#Serial: 20260324
 1bet-01.com
 1bet.co
 1bet.co.com
@@ -40,6 +40,7 @@
 22bet8.co
 22bet9.com
 22bet22.com
+22bet24h.com
 22bet45.com
 22bet77.com
 22bet89.com
@@ -55,7 +56,9 @@
 64winairlines24.com
 66rockyspin73.com
 68vincispin91.com
+75-manekispin-6.com
 84savaspin60.com
+95rockyspin20.com
 99vincispin11.com
 188-sb.com
 288-563.com
@@ -63,6 +66,7 @@
 365-288.com
 365-808.com
 365sb.com
+365sport365.com
 724blue.com
 788-sb.com
 888starz.bet
@@ -77,12 +81,14 @@
 365488.com
 365838.com
 28365365.com
+365365104.com
 688365365.com
 abmbet.com
 access-fr.com
 admiralshark.com
 africabet.co.zw
 agentnowager.com
+alawin1.com
 allbets.tv
 allrightcasino.com
 allsport365.com
@@ -104,6 +110,7 @@ bahigo31.com
 bahigo35.com
 bahigo38.com
 bahigo42.com
+bahigo45.com
 bahigo55.com
 bahigo60.com
 bahigo64.com
@@ -131,6 +138,7 @@ bcgame.st
 bet-at-home.com
 bet-at-home02.com
 bet-at-home04.com
+bet-at-home22.com
 bet-at-home56.com
 bet-at-home68.com
 bet-at-home77.com
@@ -233,6 +241,7 @@ boomerang-bet4107.com
 botb.com
 buff.bet
 burningbet.com
+bwinbet.ch
 campeonbet.io
 campobet1.com
 captainsbet.com
@@ -272,6 +281,7 @@ crownplay2881.com
 cryptobet.com
 cryptokitties.co
 csgoempire.com
+cyraro4.com
 dachbet.com
 dachbet1.com
 dein-lottoclub.com
@@ -404,6 +414,7 @@ interwetten18.com
 interwetten19.com
 interwetten20.com
 interwetten21.com
+interwetten22.com
 ivibet.com
 ivibet.io
 ivibet.net
@@ -517,6 +528,7 @@ parierensuisse.net
 parieursuisse.com
 parieursuisse.net
 parieursuisse.org
+parieursuisse365.com
 paripesa.com
 paris-sportif-suisse.xyz
 paris-sportifs-suisse.com
@@ -675,6 +687,7 @@ supabets.co.zw
 superenalotto.net
 surlesparis.com
 svenbet.com
+swisslos-ch.ch
 swisslosch.ch
 swisslottoch.ch
 tervino1.com
@@ -695,6 +708,7 @@ tuskcasino.com
 tutibet20.com
 tutibet50.com
 tutibet51.com
+twentybet-1.com
 uklotterylive.com
 unibet.com
 unikrn.com
@@ -727,6 +741,7 @@ wettigo2.com
 wettigo3.com
 wettigo5.com
 wettigo10.com
+wettigo13.com
 wettigo16.com
 wettigo50.com
 wettigo55.com
